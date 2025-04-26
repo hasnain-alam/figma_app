@@ -1,5 +1,4 @@
-import Image from "next/image";
-import profile from "./profile"
+import Image from 'next/image'
 import SettingsIcon from '@mui/icons-material/Settings';
 
 
